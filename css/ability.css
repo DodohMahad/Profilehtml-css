@@ -1,0 +1,56 @@
+/* CSS file --> ability.html */
+body {
+  background-image: url("../image/BG.png");
+  background-attachment: fixed;
+  background-size: 100% 100%;   
+}
+h1{
+  text-align: center;
+  font-family: 'EB Garamond';
+}
+h2{
+  text-align: center;
+  font-family: 'EB Garamond';
+  font-weight:normal;  
+}
+h3{
+  text-align:center;
+  font-family:'EB Garamond';
+  font-weight:normal;
+}
+table{
+  text-align:center;
+  width:100%;
+}
+.table-rating{
+  margin-left: auto;margin-right: auto;
+  width: 50%;
+  background-color: rgb(135, 196, 255,0.5);
+  border-radius: 30px;
+
+}
+.table-menu td:hover{
+  background-color: rgb(135, 196, 255,0.5);
+  border-radius: 30px;
+}
+
+.star{
+  text-align: left;
+}
+.poem{
+  text-decoration: underline;
+  font-size: 25px;
+}
+.head{
+  background-color: rgb(135, 196, 255,0.5);
+  border-radius: 30px;
+  width: 50%;
+  margin-left: auto;margin-right: auto;
+}
+.skill-name{
+  font-size: 30px;
+}
+.skill-header{
+  font-size: 35px;
+  font-weight:  bold;
+}
